@@ -55,7 +55,7 @@ Aciklama	Kategori açıklaması
 3️⃣ Veri Setleri (Datasets)
 Alan Adı	Açıklama
 VeriSetID (PK)	Benzersiz veri seti kimliği
-VeriSetAdi	Veri setinin başlığı
+VeriSetAdi	Veri setinin başlığı 
 Aciklama	Veri seti açıklaması
 OlusturanID (FK → Kullanıcılar)	Veri setini yükleyen kullanıcı
 KategoriID (FK → Kategoriler)	Veri setinin ait olduğu kategori
