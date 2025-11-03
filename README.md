@@ -1,0 +1,1 @@
+# Yapay-Zeka-E-itim-Veri-Seti-Y-netim-Sistemi
